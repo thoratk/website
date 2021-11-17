@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD abc
 choose to keep "LOCAL"
 =======
 REMOTE
